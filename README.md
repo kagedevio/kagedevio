@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Busayo. An aspiring web developer, and a fullstack software engineering cohort at Holberton School(ALX)
+- 👋 Hi, I’m Busayo. An aspiring web developer, and a fullstack software engineering student doing 'Hard things' at Holberton School(ALX)
 - 👀 I’m interested in building fun and scaleable applications on the web.
 - 🌱 I’m currently learning how to be a fullstack SWE and WebDeveloper
 - 💞️ I’m looking to collaborate on fun and challenging projects
